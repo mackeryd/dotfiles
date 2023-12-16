@@ -1,0 +1,24 @@
+# colors theme
+
+# Adapter color
+Adapter=black
+
+# Device colors
+Device=teal
+DeviceConnected=teal
+DeviceDiscovered=orange
+
+# Menu colors
+MenuBar=goldenrod
+Menu=black
+MenuItem=teal
+
+# Progress colors
+ProgressText=black
+ProgressBar=black
+
+# Extra colors
+Text=tomato
+Border=tomato
+StatusInfo=orange
+StatusError=orange
